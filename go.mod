@@ -1,4 +1,4 @@
-module github.com/nleiva/oc-data-structures/features/vlan
+module github.com/nleiva/oc-data-structures
 
 go 1.22.5
 
